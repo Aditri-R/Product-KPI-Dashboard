@@ -38,12 +38,6 @@ A modern analytics dashboard designed in Figma for product managers and business
 
 ---
 
-## Preview
-
-![Dashboard](assets/dashboard.png)
-
----
-
 ## Design Highlights
 
 - Modern enterprise dashboard
